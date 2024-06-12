@@ -1,2 +1,2 @@
 # Timer-and-Stopwatch
-link:
+link:https://kbenaka.github.io/Timer-and-Stopwatch/
